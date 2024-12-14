@@ -2,7 +2,7 @@
 name = "cubit"
 version = "1.4.0"
 cairo-version = ">=2.8.4"
-edition = "2024_12"
+edition = "2023_10"
 description = "Math library in Cairo using a 64.64 fixed point representation"
 homepage = "https://github.com/influenceth/cubit"
 
